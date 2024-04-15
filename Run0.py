@@ -553,7 +553,7 @@ def menu(my_name,my_id):
 
 #-----------------[ HASIL-CRACK ]-----------------#
 
-def XW-KINGresults():
+def YOKIA_results():
     ok_file_path = '/sdcard/XW-KINGv6/XW-KINGv6-OK.txt'
     cp_file_path = '/sdcard/XW-KINGv6/XW-KINGv6-CP.txt'
 
@@ -630,7 +630,7 @@ def groups():
 
 #-------------------[ CRACK-PUBLIK ]----------------#
 
-def XW-KING_public():
+def YOKIA_public():
 	try:
 		token = open('data/.token.txt','r').read()
 		cok = open('data/.cok.txt','r').read()
